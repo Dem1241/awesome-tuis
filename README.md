@@ -93,6 +93,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [sacha](https://github.com/Sachamama/sacha) A two-pane AWS TUI for browsing, searching, and managing resources across seven services including CloudWatch Logs, S3, DynamoDB, Lambda, SSM, SQS, and EC2.
 - [ServerHub](https://github.com/nickprotop/ServerHub) A TUI server monitoring dashboard for Linux with real-time metrics, scriptable widgets, and remote management
 - [Servonaut](https://github.com/zb-ss/servonaut) A TUI for managing AWS, Hetzner, OVH and custom SSH servers with log viewing, CloudWatch/CloudTrail browsing, IP banning, AI log analysis and a built-in MCP server
+- [slotwatch](https://github.com/Dem1241/slotwatch) Watch PostgreSQL replication slots and catch the one quietly filling your disk with WAL
 - [sockttop](https://github.com/jasonwitty/socktop) socktop is a remote system monitor with a rich TUI, inspired by top/btop, talking to a lightweight agent over WebSockets.
 - [sysz](https://github.com/joehillen/sysz) An fzf terminal UI for systemctl
 - [talos linux](https://github.com/siderolabs/talos) A Linux distro with a TUI dashboard for local and remote usage
